@@ -1,0 +1,9 @@
+[submodule "gamificiation-web-react"]
+	path = gamificiation-web-react
+	url = https://github.com/FanchiniRudolf/gamificiation-web-react
+[submodule "gamification-movil-react-native"]
+	path = gamification-movil-react-native
+	url = https://github.com/FanchiniRudolf/gamification-movil-react-native
+[submodule "gamification-back-end"]
+	path = gamification-back-end
+	url = https://github.com/FanchiniRudolf/gamification-back-end
